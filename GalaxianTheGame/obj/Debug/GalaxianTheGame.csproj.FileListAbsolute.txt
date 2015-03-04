@@ -1,0 +1,7 @@
+C:\Users\Georgi\Desktop\GalaxianGame\Galaxian\GalaxianTheGame\bin\Debug\GalaxianTheGame.exe.config
+C:\Users\Georgi\Desktop\GalaxianGame\GalaxianTheGame\bin\Debug\GalaxianTheGame.exe.config
+C:\Users\Georgi\Desktop\GalaxianGame\GalaxianTheGame\bin\Debug\GalaxianTheGame.exe
+C:\Users\Georgi\Desktop\GalaxianGame\GalaxianTheGame\bin\Debug\GalaxianTheGame.pdb
+C:\Users\Georgi\Desktop\GalaxianGame\GalaxianTheGame\obj\Debug\GalaxianTheGame.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\GalaxianGame\GalaxianTheGame\obj\Debug\GalaxianTheGame.exe
+C:\Users\Georgi\Desktop\GalaxianGame\GalaxianTheGame\obj\Debug\GalaxianTheGame.pdb
